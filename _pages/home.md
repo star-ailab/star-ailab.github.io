@@ -1,5 +1,5 @@
 ---
-title: "Star AI Lab - Home"
+title: "Star-AI Lab - Home"
 layout: homelay
 excerpt: "Secure, Trustworthy, and Reliable AI Lab."
 sitemap: false
