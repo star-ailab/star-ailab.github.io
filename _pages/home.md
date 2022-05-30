@@ -11,6 +11,4 @@ Secure, Trustworthy, and Reliable (&#9733;AI) Lab focuses on cutting-edge resear
 To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usf.png" style="width: 210px">
-</figure>
+
