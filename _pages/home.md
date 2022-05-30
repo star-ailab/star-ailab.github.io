@@ -1,12 +1,12 @@
 ---
 title: "Star AI Lab - Home"
 layout: homelay
-excerpt: "Secure, Trustworthy, Reliable AI Lab."
+excerpt: "Secure, Trustworthy, and Reliable AI Lab."
 sitemap: false
 permalink: /
 ---
 
-Secure, Trustworthy, and Reliable (\* AI) Lab focuses on cutting-edge research to make the online space safer.
+Secure, Trustworthy, and Reliable (&#9733 AI) Lab focuses on cutting-edge research to make the online space safer.
 
 To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
