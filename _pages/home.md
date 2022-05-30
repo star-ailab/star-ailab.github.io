@@ -12,5 +12,5 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usf.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usf.png" style="width: 210px">
 </figure>
