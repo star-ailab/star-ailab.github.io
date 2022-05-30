@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Star AI Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Secure, Trustworthy, Reliable AI Lab."
 sitemap: false
 permalink: /
 ---
