@@ -6,11 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team Members
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [administrative support](#administrative-support), [visiting scholors](#lab-visitors).
+<!---Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [administrative support](#administrative-support), [visiting scholors](#lab-visitors).-->
 
-## Director
+## Directors
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -74,7 +74,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-
+<!---
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -87,7 +87,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -191,3 +191,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+-->
