@@ -10,6 +10,8 @@ Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online spac
 
 To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
+** Recent News
+
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>Our paper, <a style="color:blue;text-decoration-line: underline;" href="publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
@@ -30,4 +32,10 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 		<li>I received the 2020 Paul S. and Shirley Goodman Award at the University of Arizona.</li>
 	</ul>
 </div>
+
+** Director
+
+
+**Co-directors
+
 
