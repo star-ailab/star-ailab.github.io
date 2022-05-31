@@ -10,7 +10,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [administrative support](#administrative-support), [visiting scholors](#lab-visitors).
 
-## Staff
+## Director
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
