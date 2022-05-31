@@ -10,6 +10,8 @@ Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online spac
 
 To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
+## Directors
+
 ## Recent News
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
@@ -33,9 +35,9 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 	</ul>
 </div>
 
-## Director
 
 
-## Co-directors
+
+
 
 
