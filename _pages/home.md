@@ -36,12 +36,10 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 ### Director's Biography
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>Mohammadreza (Reza) Ebrahimi</h4>
-  <i>ebrahimim@usf.edu
-  <p> </span>I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
-	<p style="margin-bottom: 10px"><span style="font-weight: bold"><i>Research:</i> </span>My <!--current--> research interest is mainly focused on ML-enabled data analytics to make the online space safer<!--AI-enabled Cybersecurity (Security of AI and AI for Cybersecurity)--> using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Deep Reinforcement Learning. 
-	My work has appeared at security conferences and workshops such as <b>IEEE ISI</b>, <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>; in journals including <span style="font-style: italic"><b>IEEE TPAMI</b></span>, <span style="font-style: italic"><b>ACM TMIS</b></span>, <span style="font-style: italic"><b>Digital Forensics</b></span>, <span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, <span style="font-style: italic"><b>MIS Quarterly</b></span>, <span style="font-style: italic"><b>JMIS</b></span>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p> </p>
-
+  <h4>  Mohammadreza (Reza) Ebrahimi</h4>
+  <i>  ebrahimim@usf.edu
+  <p>  I am an assistant professor at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
+  
 </div>
 
 
