@@ -26,3 +26,13 @@
   highlight: 0
   news2:
 
+- title: "Semi-Supervised Cyber Threat Identification in Dark Net Markets: A Transductive and Deep Learning Approach"
+  image:
+  description: JMIS, Taylor and Francis, 2020
+  authors: M. Ebrahimi, J. F. Nunamaker Jr., H. Chen
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/07421222.2020.1790186
+    display:  Download
+  highlight: 0
+  news2:
+
