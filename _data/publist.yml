@@ -46,4 +46,32 @@
   highlight: 0
   news2:
   
- 
+- title: "Automated Identification of Child Abuse in Chat Rooms by Using Data Mining"
+  image:
+  description: Data Mining Trends and Applications in Criminal Science and Investigations, 2016
+  authors: M. Keyvanpour, M. Ebrahimi, N. G. Nayebi, O. Ormandjieva, C. Y. Suen
+  link:
+    url: https://www.igi-global.com/chapter/automated-identification-of-child-abuse-in-chat-rooms-by-using-data-mining/157462
+    display: Download
+  highlight: 0
+  news2:
+  
+- title: "Designing Efficient ANN Classifiers for Matching Burglaries from Dwelling Houses"
+  image:
+  description: Applied Artificial Intelligence, Taylor and Francis, 2012
+  authors: M. Keyvanpour, M. Ebrahimi, M. Javideh
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/08839514.2012.718227
+    display: Download
+  highlight: 0
+  news2:
+  
+ - title: "A Hybrid Geospatial Data Clustering Method for Hotspot Analysis"
+  image:
+  description: Journal of Computer and Robotics, 2010
+  authors: M. Keyvanpour, M. Javideh, M. Ebrahimi
+  link:
+    url: http://www.qjcr.ir/article_616.html
+    display: Download
+  highlight: 0
+  news2:
