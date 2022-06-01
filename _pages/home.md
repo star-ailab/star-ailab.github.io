@@ -42,7 +42,6 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 	<p style="margin-bottom: 10px"><span style="font-weight: bold"><i>Research:</i> </span>My <!--current--> research interest is mainly focused on ML-enabled data analytics to make the online space safer<!--AI-enabled Cybersecurity (Security of AI and AI for Cybersecurity)--> using a wide range of statistical learning theories, including Transductive Learning, Transfer Learning, Adversarial Learning, and Deep Reinforcement Learning. 
 	My work has appeared at security conferences and workshops such as <b>IEEE ISI</b>, <b>IEEE Security & Privacy Workshops</b>, <b>AAAI RSEML Workshop</b>; in journals including <span style="font-style: italic"><b>IEEE TPAMI</b></span>, <span style="font-style: italic"><b>ACM TMIS</b></span>, <span style="font-style: italic"><b>Digital Forensics</b></span>, <span style="font-style: italic"><b>Applied Artificial Intelligence</b></span>, <span style="font-style: italic"><b>MIS Quarterly</b></span>, <span style="font-style: italic"><b>JMIS</b></span>; and, as a chapter in the book “Data Mining Trends and Applications in Criminal Science and Investigations.”</p> </p>
 
-  </ul>
 </div>
 
 
