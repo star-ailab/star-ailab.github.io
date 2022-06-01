@@ -10,7 +10,7 @@ Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online spac
 
 To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
-### Recent News
+#### Recent News
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
@@ -34,7 +34,7 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 	</ul>
 </div>
 
-### Director's Biography
+#### Director's Biography
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
