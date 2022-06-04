@@ -15,9 +15,9 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>I am a <b>Workshop Chair</b> in <a href="https://ml4cyber.github.io/22"> IEEE ICDM Workshop on Machine Learning for Cybersecurity (MLC)</a>, 2022</li>
-		
+		<br>
 		<li>Our paper, <a href="publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
-		
+		<br>
 		<li>Our paper, <a href="https://dl.acm.org/doi/full/10.1145/3505226"> "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence"</a> was accepted to <b>ACM TMIS</b> 2022.</li>
 		<li>My Ph.D. dissertation won the <b>ACM SIGMIS Doctoral Dissertation Award</b> 2021. </li>
 		<li>I received the <i>Best Reviewer Award</i> at Informs Data Science Workshop 2021.</li>
@@ -41,12 +41,7 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
   <a href="https://mohammadrezaebrahimi.github.io"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left" /></a>
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
   <i>&nbsp;&nbsp; ebrahimim@usf.edu</i>
-  <p> &nbsp;&nbsp; I am an assistant professor and the director of Star-AI Lab at School of Information Systems <br> 
-  and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the <br> 
-  University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by <br>
-  Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University <br> 
-  in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security.<br>
-  My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
+  <p> &nbsp;&nbsp; I am an assistant professor and the director of Star-AI Lab at School of Information Systems and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
   
 </div>
 
