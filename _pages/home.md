@@ -39,14 +39,12 @@ To this end, we develop novel methods in three key areas: AI-enabled cybersecuri
   <a href="https://mohammadrezaebrahimi.github.io"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left" /></a>
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
   <i>&nbsp;&nbsp; ebrahimim@usf.edu</i>
-  <p>  I am an assistant professor and the director of Star-AI Lab at School of<br>
-  Information Systems and Management (SISM) at the University of South Florida. <br>
-  I received my PhD in Information Systems   from the University of Arizona, where <br>
-  I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by <br>
-  Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science<br>
-  from Concordia University in Montreal, Canada. My Ph.D. Thesis targets two interconnected<br>
-  research areas: Security of AI and AI for Security. My Master's thesis leveraged crime data<br>
-  mining to enhance juveniles' safety in cyberspace.</p>
+  <p> &nbsp;&nbsp; I am an assistant professor and the director of Star-AI Lab at School of Information Systems <br> 
+  and Management (SISM) at the University of South Florida. I received my PhD in Information Systems from the <br> 
+  University of Arizona, where I was a research assistant at the Artifiical Intelligence (AI) Lab conducted by <br>
+  Regents’ Professor Hsinchun Chen. In 2016, I received my Master's in Computer Science from Concordia University <br> 
+  in Montreal, Canada. My Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security.<br>
+  My Master's thesis leveraged crime data mining to enhance juveniles' safety in cyberspace.</p>
   
 </div>
 
