@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>I am a <b>Workshop Chair</b> in <a href="https://ml4cyber.github.io/22"> IEEE ICDM Workshop on Machine Learning for Cybersecurity (MLC)</a>, 2022</li>
+		<li>I am a <b>Workshop Chair</b> in <a href="https://ml4cyber.github.io/22"> IEEE ICDM Workshop on Machine Learning for Cybersecurity (MLC)</a>, 2022.</li>
 		<br>
 		<li>Our paper, <a href="https://ieeexplore.ieee.org/document/9744510"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<br>
