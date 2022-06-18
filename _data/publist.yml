@@ -6,6 +6,15 @@
     url: https://mohammadrezaebrahimi.github.io/publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf
     display: Download
   highlight: 0
+  
+- title: "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces"
+  image: imageaward_edited.png
+  description: IEEE S\&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021
+  authors: M. Ebrahimi, J. Pacheco, W. Li, J. Hu,H. Chen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9474314
+    display: Download
+  highlight: 0  
 
 - title: "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence"
   image: BSCCOgap.png
