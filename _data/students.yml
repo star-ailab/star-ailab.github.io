@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Alysson De Oliveira Silveira 
+  photo: asilveira.jpg
+  info: Ph.D. student
+  email: alysson@usf.edu
   number_educ: 0
   education1:
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Shafayet Shariar Hossain
+  photo: shossain.jpg
+  info: Ph.D. student
+  email: shossain1@usf.edu
   number_educ: 0
   education1:
