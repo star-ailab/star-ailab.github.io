@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-##### Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online space safer.
+#### Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online space safer.
 
-##### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
+#### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI.
 
 ### Recent News
 
