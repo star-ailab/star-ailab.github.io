@@ -8,12 +8,18 @@ permalink: /research/
 
 # Research Projects
 
-<!---
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our current projects focus on two major thrusts: (1) Security and Privacy of AI and (2) AI for Security (specifically AI-enabled cybersecurity). Our overarching goal is to make cyberspace a safer place.
+Here is a summary of each thrust:
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+### Security and Privacy of AI
 
-Here are some themes and techniques that we currently work on:
+
+### AI-enabled Cybersecurity
+
+## Multilingual Cyber Threat Detection in the Dark Web
+
+
+
 
 **Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
 
@@ -45,4 +51,3 @@ We have proposed that artificial super-periodicities can lead to improved superc
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
--->
