@@ -9,7 +9,7 @@ permalink: /research/
 # Research Projects
 
 Our current projects focus on two major thrusts: (1) Security and Privacy of AI and (2) AI for Security (specifically AI-enabled cybersecurity). Our overarching goal is to make cyberspace a safer place.
-Here is a summary of each thrust:
+Here we provide a summary of each thrust along with some examples of our work:
 
 ### Security and Privacy of AI
 
@@ -25,7 +25,7 @@ inherently discrete.
 
 ### AI-enabled Cybersecurity
 
-**Multilingual Cyber Threat Detection in the Dark Web** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 40%; float: right; margin: 0px 10px"}
+**Multilingual Cyber Threat Detection in the Dark Web** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
 International dark web platforms operating within multiple geopolitical regions and languages host a myriad of hacker assets such as malware, hacking tools, hacking tutorials, and malicious
 source code. Cybersecurity analytics organizations employ machine learning models trained on human-labeled data to automatically detect these assets and bolster their situational awareness.
 However, the lack of human-labeled training data is prohibitive when analyzing foreign-language dark web content. In this work, we develop a novel Cross-Lingual Hacker Asset Detection method that
@@ -64,3 +64,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
+--->
