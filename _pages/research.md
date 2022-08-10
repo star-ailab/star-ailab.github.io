@@ -14,12 +14,18 @@ Here is a summary of each thrust:
 ### Security and Privacy of AI
 
 We are working on making static malware detectors more robust against adversarial malware variants. As part of this thrust, we are also working on privacy of AI.
-**Adversarially Robust Malware Detection**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/rl.png){: style="width: 60%; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+**Adversarially Robust Malware Detection**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/rl.png){: style="width: 40%; float: right; margin: 0px 10px"}
+Recent machine learning- and deep learning-based static malware detectors have shown breakthrough performance in identifying unseen malware variants. As a result, they are
+increasingly being adopted to lower the cost of dynamic malware analysis and manual signature identification. Despite their success, studies have shown that they can be vulnerable to
+adversarial malware attacks, in which an adversary modifies a known malware executable subtly to fool the malware detector into recognizing it as a benign file. Recent studies have shown
+that automatically crafting these adversarial malware variants at scale is beneficial to improve the robustness of malware detectors. Most extant methods rely on prior
+knowledge about the architecture or parameters of the detector, which is not often available in practice. Moreover, the majority of these methods are restricted to additive modifications that append
+contents to the malware executable without modifying its original content. In this study, we offer a novel Reinforcement Learning (RL) method, which extends Variational Actor-Critic to non-continuous action spaces where modifications are
+inherently discrete.
 
 ### AI-enabled Cybersecurity
 
-**Multilingual Cyber Threat Detection in the Dark Web** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 60%; float: right; margin: 0px 10px"}
+**Multilingual Cyber Threat Detection in the Dark Web** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 40%; float: right; margin: 0px 10px"}
 International dark web platforms operating within multiple geopolitical regions and languages host a myriad of hacker assets such as malware, hacking tools, hacking tutorials, and malicious
 source code. Cybersecurity analytics organizations employ machine learning models trained on human-labeled data to automatically detect these assets and bolster their situational awareness.
 However, the lack of human-labeled training data is prohibitive when analyzing foreign-language dark web content. In this work, we develop a novel Cross-Lingual Hacker Asset Detection method that
