@@ -14,6 +14,7 @@ Here we provide a summary of each thrust along with some examples of our work:
 ### Security and Privacy of AI
 
 We are working on making static malware detectors more robust against adversarial malware variants. As part of this thrust, we are also working on privacy of AI.
+
 **Adversarially Robust Malware Detection**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/rl.png){: style="width: 40%; float: right; margin: 0px 10px"}
 Recent machine learning- and deep learning-based static malware detectors have shown breakthrough performance in identifying unseen malware variants. As a result, they are
 increasingly being adopted to lower the cost of dynamic malware analysis and manual signature identification. Despite their success, studies have shown that they can be vulnerable to
