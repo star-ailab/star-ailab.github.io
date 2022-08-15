@@ -44,7 +44,7 @@ permalink: /
 </div>
 
 ### Director's/Fonder Biography
-<div class="col-sm-12 clearfix">
+<div class="col-sm-9 clearfix">
   <a href="https://mohammadrezaebrahimi.github.io"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left" /></a>
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
   <i>&nbsp;&nbsp; ebrahimim[ at ]usf.edu</i>
