@@ -49,7 +49,7 @@ permalink: /
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
   <i>&nbsp;&nbsp; ebrahimim[ at ]usf.edu</i>
   <!--<p>&nbsp;&nbsp; Reza is an assistant professor and the director of Star-AI Lab at School of Information Systems and <br>&nbsp;&nbsp; Management (SISM) at the University of South Florida. He received his Ph.D. in Information Systems from <br>&nbsp;&nbsp; the University of Arizona, where he was a research assistant at the Artifiical Intelligence (AI) Lab conducted <br>&nbsp;&nbsp; by Regents’ Professor Hsinchun Chen. In 2016, He received my Master's in Computer Science from <br>&nbsp;&nbsp; Concordia University in Montreal, Canada. His Ph.D. Thesis targets two interconnected research areas: <br>&nbsp;&nbsp; Security of AI and AI for Security. His Master's thesis leveraged crime data mining to enhance juveniles' <br>&nbsp;&nbsp; safety in the cyberspace.</p>-->
-  <div>
+  <div style="border:4px">
   <p>&nbsp;&nbsp; Reza is an assistant professor and the director of Star-AI Lab at School of Information Systems and Management (SISM) at the University of South Florida. He received his Ph.D. in Information Systems from the University of Arizona, where he was a research assistant at the Artifiical Intelligence (AI) Lab conducted by Regents’ Professor Hsinchun Chen. In 2016, He received my Master's in Computer Science from Concordia University in Montreal, Canada. His Ph.D. Thesis targets two interconnected research areas: Security of AI and AI for Security. His Master's thesis leveraged crime data mining to enhance juveniles' safety in the cyberspace.</p>
   </div>
 </div>
