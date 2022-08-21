@@ -43,7 +43,7 @@ permalink: /
 	</ul>
 </div>
 
-### Director's/Fonder Biography
+### Founder's Biography
 <div class="col-sm-12 clearfix">
   <a href="https://mohammadrezaebrahimi.github.io"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left; padding:8px" /></a>
   <h4>&nbsp;&nbsp; <a href="https://mohammadrezaebrahimi.github.io"> Mohammadreza (Reza) Ebrahimi </a></h4>
