@@ -57,7 +57,7 @@ We have open-sourced our implementations for wide adoption and public testing pu
 
 ### AI-enabled Cybersecurity
 
-**Multilingual Cyber Threat Detection in the Dark Web with Adversarial Deep Representation Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
+**Multilingual Cyber Threat Detection in the Russian Dark Web with Adversarial Deep Representation Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
 
 International dark web platforms operating within multiple geopolitical regions and languages host a myriad of hacker assets such as malware, hacking tools, hacking tutorials, and malicious
 source code. Cybersecurity analytics organizations employ machine learning models trained on human-labeled data to automatically detect these assets and bolster their situational awareness.
@@ -66,7 +66,7 @@ automatically leverages the knowledge learned from English content to detect hac
 Learning (ADREL) method, which generates multilingual text representations using Generative Adversarial Networks (GANs).
 
 
-**Multilingual Cyber Threat Detection in the Dark Web with Adversarial Kernel Matching** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_fr.png){: style="width: 45%; float: right; margin: 0px 10px"}
+**Multilingual Cyber Threat Detection in Russian and French Darknet Market Places with Adversarial Kernel Matching** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_fr.png){: style="width: 45%; float: right; margin: 0px 10px"}
 
 Learning predictive models in new domains with scarce training data is a growing challenge in modern supervised learning
 scenarios. This incentivizes developing domain adaptation methods that leverage the knowledge in known domains (source) and adapt to
