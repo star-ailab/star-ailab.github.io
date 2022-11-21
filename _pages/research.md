@@ -40,7 +40,7 @@ knowledge about the architecture or parameters of the detector, which is not oft
 contents to the malware executable without modifying its original content. In this study, we offer a novel Reinforcement Learning (RL) method, which extends Variational Actor-Critic to non-continuous action spaces where modifications are
 inherently discrete.
 
-**Private Fine-Tuninig of Large Language Models**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/ew.pdf){: style="width: 30%; float: right; margin: 0px 10px"}
+**Private Fine-Tuninig of Large Language Models**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/ew.png){: style="width: 30%; float: right; margin: 0px 10px"}
 
 Pre-trained Large Language Models (LLMs) are an integral part of modern AI that have led to breakthrough performances in complex AI tasks. Major AI companies with expensive 
 infrastructures are able to develop and train these large models with billions and millions of parameters from scratch. Third parties, researchers, and practitioners are 
