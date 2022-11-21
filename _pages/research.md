@@ -57,13 +57,30 @@ We have open-sourced our implementations for wide adoption and public testing pu
 
 ### AI-enabled Cybersecurity
 
-**Multilingual Cyber Threat Detection in the Dark Web** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
+**Multilingual Cyber Threat Detection in the Dark Web with Adversarial Deep Representation Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
 
 International dark web platforms operating within multiple geopolitical regions and languages host a myriad of hacker assets such as malware, hacking tools, hacking tutorials, and malicious
 source code. Cybersecurity analytics organizations employ machine learning models trained on human-labeled data to automatically detect these assets and bolster their situational awareness.
 However, the lack of human-labeled training data is prohibitive when analyzing foreign-language dark web content. In this work, we develop a novel Cross-Lingual Hacker Asset Detection method that
 automatically leverages the knowledge learned from English content to detect hacker assets in nonEnglish dark web platforms. Our method encompasses a novel Adversarial Deep Representation
 Learning (ADREL) method, which generates multilingual text representations using Generative Adversarial Networks (GANs).
+
+
+**Multilingual Cyber Threat Detection in the Dark Web with Adversarial Kernel Matching** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_fr.png){: style="width: 45%; float: right; margin: 0px 10px"}
+
+Learning predictive models in new domains with scarce training data is a growing challenge in modern supervised learning
+scenarios. This incentivizes developing domain adaptation methods that leverage the knowledge in known domains (source) and adapt to
+new domains (target) with a different probability distribution. This becomes more challenging when the source and target domains are in
+heterogeneous feature spaces, known as heterogeneous domain adaptation (HDA). While most HDA methods utilize mathematical
+optimization to map source and target data to a common space, they suffer from low transferability. Neural representations have proven to
+be more transferable; however, they are mainly designed for homogeneous environments. Drawing on the theory of domain adaptation, we
+propose a novel framework, Heterogeneous Adversarial Neural Domain Adaptation (HANDA), to effectively maximize the transferability in
+heterogeneous environments. HANDA conducts feature and distribution alignment in a unified neural network architecture and achieves
+domain invariance through adversarial kernel learning. Three experiments were conducted to evaluate the performance against the
+state-of-the-art HDA methods on major image and text e-commerce benchmarks. HANDA shows statistically significant improvement in
+predictive performance. The practical utility of HANDA was shown in real-world dark web online markets. HANDA is an important step
+towards successful domain adaptation in e-commerce applications.
+
 
 
 <!---
