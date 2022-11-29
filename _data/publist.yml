@@ -28,7 +28,7 @@
 - title: "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces"
   image: imageaward_edited.png
   description: IEEE S&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021
-  authors: M. Ebrahimi, J. Pacheco, W. Li, J. Hu,H. Chen
+  authors: M. Ebrahimi, J. Pacheco, W. Li, J. Hu, H. Chen
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9474314
     display: Download
@@ -37,7 +37,7 @@
 - title: "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"
   image:
   description: AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), February 8-9, 2021
-  authors: M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza,H. Chen
+  authors: M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza, H. Chen
   link:
     url: https://arxiv.org/abs/2012.07994
     display: Download
@@ -47,7 +47,7 @@
 - title: "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach"
   image:
   description: IEEE International Conference on Intelligence and Security Informatics (ISI), 2021
-  authors: JL Hu, M Ebrahimi, H Chen
+  authors: J. Hu, M. Ebrahimi, H. Chen
   link:
     url: https://arxiv.org/abs/2112.01724
     display: Download
