@@ -7,7 +7,7 @@
     display: Download
   highlight: 0
   
-- title: EW-Tune: "A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy"
+- title: "EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy"
   image: imageaward_edited.png
   description: IEEE ICDM Workshop on Machine Learning for Cybersecurity, 2022 (Forthcoming)
   authors: R. Behnia*, M. Ebrahimi*, J. Pacheco, B. Padmanabhan (*: Equal contribution)
