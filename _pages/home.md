@@ -28,7 +28,7 @@ permalink: /
 		<br>
 		<li>Our paper on <a href="https://arxiv.org/abs/2111.09415"> "Deep Learning-based Privacy Awareness" </a> received the <i> Best Paper Award</i> in <b>IEEE ISI</b> 2021.</li>
 		<br>
-		<li>Reza serves as <b>Program Committee (PC) Member</b> in IEEE S&P Workshop on Deep Learning and Security (DLS) 2022.</li>
+		<li>Reza serves as <b>Program Committee (PC) Member</b> in <b>IEEE S&P Workshop</b> on Deep Learning and Security (DLS) 2022.</li>
 		<br>
 		<li>Reza serves as <b>Program Committee (PC) Member</b> in the Infroms Data Science Workshop 2021.</li>
 		<br>
