@@ -8,11 +8,11 @@ permalink: /
 
 #### Star-AI (&#9733;AI) Lab focuses on cutting-edge research to make the online space safer.
 
-#### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI. Please see our [current projects](https://star-ailab.github.io/research/) in each area.
+#### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, security of AI, and Privacy of AI. Please see our [current projects](https://star-ailab.github.io/research/) in each area from our [team](https://star-ailab.github.io/team/) and our latest [publications](https://star-ailab.github.io/publications/):blush:.
 
 ### Recent News
 
-<div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:380px; overflow:auto;">
+<div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:500px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>Reza will serve as a <b>PC member</b> in IEEE S&P Workshop on Deep Learning Security and Privacy</a>, 2023.</li>
 		<br>
