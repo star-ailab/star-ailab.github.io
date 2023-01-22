@@ -247,9 +247,9 @@ permalink: /team/
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 -->
 
-### Current and past collaborators from the AI Lab at University of Arizona (Supervised by Dr. Hsinchun Chen)
+### Collaborators from the AI Lab at University of Arizona (Supervised by Dr. Hsinchun Chen)
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ua.jpg" class="img-responsive" width="80%" style="float: left; padding:8px" /></a>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ua.jpg" class="img-responsive" width="80%" style="float: left; padding:8px" />
 </div>
 
 
