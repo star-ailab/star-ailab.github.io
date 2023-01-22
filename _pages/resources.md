@@ -10,6 +10,6 @@ permalink: /publications/
 # Some Useful Resources
 
 - [MULTILINGUAL HACKER ASSET IDENTIFICATION LEXICON](https://mohammadrezaebrahimi.github.io/project%20resources/)
-- [A Gentle Introduction to Adversarial Artificial Intelligence & Applications in Cybersecurity]()
+- [A Gentle Introduction to Adversarial Artificial Intelligence & Applications in Cybersecurity](/files/AdversarialAI.pdf)
 
 
