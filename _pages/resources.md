@@ -1,9 +1,9 @@
 ---
-title: "Star-AI Lab - Publications"
+title: "Star-AI Lab - Resources"
 layout: gridlay
-excerpt: "Star-AI Lab -- Publications."
+excerpt: "Star-AI Lab -- Resources."
 sitemap: false
-permalink: /publications/
+permalink: /resources/
 ---
 
 
