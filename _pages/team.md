@@ -247,6 +247,13 @@ permalink: /team/
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 -->
 
+### Current and past collaborators from the AI Lab at University of Arizona (Supervised by Dr. Hsinchun Chen)
+<div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ua.jpg" class="img-responsive" width="80%" style="float: left; padding:8px" /></a>
+</div>
+
+
+
 ### Founder's Bio
 <div class="col-sm-12 clearfix">
   <a href="https://mohammadrezaebrahimi.github.io"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left; padding:8px" /></a>
