@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:500px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Reza will serve as a <b>PC member</b> in IEEE S&P Workshop on Deep Learning Security and Privacy, 2023.</li>
+		<li>Reza will serve as a <b>PC member</b> <a href="https://ml4cyber.github.io/23"> in IEEE S&P Workshop on Deep Learning Security and Privacy 2023 </a>.</li>
 		<br>
 		<li>Our paper, <a href="https://ieeexplore.ieee.org/document/9744510"> "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"</a> was accepted to <b>IEEE TPAMI</b> 2022.</li>
 		<br>
