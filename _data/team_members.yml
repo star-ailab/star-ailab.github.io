@@ -29,10 +29,10 @@
   photo: jbirrell.jpg
   info:  
   email: 
-  number_educ: 3
-  education1: Postdoc at TRIPODS Institute for Theoretical Foundations of Data Science
+  number_educ: 2
+  education1: Postdoc at <a href="https://tripods.cs.umass.edu/people.html"> TRIPODS Institute for Theoretical Foundations of Data Science, University of Massachusetts Amherst
   education2: Ph.D. in Applied Mathematics, University of Arizona
-  education3: B.S. in Physics, Brigham Young University
+  education3: 
 
 
 
