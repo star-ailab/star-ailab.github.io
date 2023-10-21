@@ -1,6 +1,15 @@
+- title: "Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences"
+  image: imageaward_edited.png
+  description: arXiv, 2023
+  authors: J. Birrell, M. Ebrahimi
+  link:
+    url: https://arxiv.org/pdf/2309.03791.pdf
+    display: Download
+  highlight: 0
+  
 - title: "Multi-view Representation Learning from Malware to Defend Against Adversarial Variants"
   image: imageaward_edited.png
-  description: IEEE ICDM Workshop on Multi-view Representation Learning, 2022 (Forthcoming)
+  description: IEEE ICDM Workshop on Multi-view Representation Learning, 2022
   authors: J. Hu, M. Ebrahimi, W. Li, X. Li, H. Chen
   link:
     url: https://arxiv.org/pdf/2210.15429.pdf
