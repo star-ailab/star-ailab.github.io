@@ -17,6 +17,7 @@ We are working on making AI models more robust against adversarial attacks with 
 
 
 **ARMOR: Adversarially Robust Learning with Optimal Transport Regularized Divergences**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/armor.png){: style="width: 40%; float: right; margin: 0px 10px"}
+
 We introduce the ARMOR methods as novel approaches to enhancing the adversarial robustness of deep learning models. These methods are based on a new class of optimal-transport-regularized divergences, constructed via an infimal convolution between an information divergence and an optimal-transport (OT) cost. We use these as tools to enhance  adversarial robustness  by maximizing the expected loss over a neighborhood of distributions, a technique known as distributionally robust optimization (DRO). Viewed as a tool for constructing adversarial samples,  our method allows samples to be both transported, according to the OT cost, and re-weighted, according to the information divergence; the addition of a principled and dynamical adversarial re-weighting on top of adversarial sample transport is the key innovation of $ARMOR_D$. $ARMOR_D$ can be viewed as a generalization of the best-performing loss functions and OT costs in the adversarial training literature; we demonstrate this flexibility by using $ARMOR_D$ to augment the UDR, TRADES, and MART methods and obtain  improved performance on CIFAR-10 image recognition. On CIFAR-10, $ARMOR_D$ leads to 1.5\% and 2.1\% increase in adversarial robustness against two strong adversarial attacks, AutoAttack and $PGD^{200}$, respectively. To foster reproducibility, we made the code accessible at \url{https://github.com/star-ailab/ARMOR}.
 
 **Adversarially Robust Malware Detection**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/rl.png){: style="width: 40%; float: right; margin: 0px 10px"}
@@ -65,7 +66,7 @@ We have open-sourced our implementations for wide adoption and public testing pu
 
 ### AI-enabled Cybersecurity
 
-**RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar.png){: style="width: 4%; float: right; margin: 0px 10px"}
+**RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar.png){: style="width: 45%; float: right; margin: 0px 10px"}
 The robustness of cyber defense AI agents has raised deep concerns in modern cyber defense. Drawing on the computational design science paradigm, we couple robust optimization and reinforcement learning theories to develop a novel framework, called Reinforcement Learning-based Adversarial Attack Robustness (RADAR), to increase the robustness of cyber defense AI agents against adversarial attacks. To demonstrate practical utility, we instantiate RADAR for malware attacks – the primary cause of financial loss in cyber attacks. Incorporating RADAR in three renowned malware detectors shows an adversarial robustness increase of up to seven times, on average.
 
 **Multilingual Cyber Threat Detection in the Russian Dark Web with Adversarial Deep Representation Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
