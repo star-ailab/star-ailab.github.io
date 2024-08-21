@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research Projects
 
-Our current projects focus on two major thrusts: (1) Security and Privacy of AI and (2) AI for Security (specifically AI-enabled cybersecurity). Our overarching goal is to make cyberspace a safer place.
+Our current projects focus on two major thrusts: (1) Security and Privacy of AI and (2) AI for Security (AI-enabled cybersecurity analytics). Our overarching goal is to make cyberspace a safer place.
 Here we provide a summary of each thrust along with some examples of our work:
 
 ### Security and Privacy of AI
