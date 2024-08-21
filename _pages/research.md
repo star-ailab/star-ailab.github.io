@@ -67,6 +67,7 @@ We have open-sourced our implementations for wide adoption and public testing pu
 ### AI-enabled Cybersecurity
 
 **RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar.png){: style="width: 45%; float: right; margin: 0px 10px"}
+
 The robustness of cyber defense AI agents has raised deep concerns in modern cyber defense. Drawing on the computational design science paradigm, we couple robust optimization and reinforcement learning theories to develop a novel framework, called Reinforcement Learning-based Adversarial Attack Robustness (RADAR), to increase the robustness of cyber defense AI agents against adversarial attacks. To demonstrate practical utility, we instantiate RADAR for malware attacks – the primary cause of financial loss in cyber attacks. Incorporating RADAR in three renowned malware detectors shows an adversarial robustness increase of up to seven times, on average.
 
 **Multilingual Cyber Threat Detection in the Russian Dark Web with Adversarial Deep Representation Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rus_en.png){: style="width: 45%; float: right; margin: 0px 10px"}
