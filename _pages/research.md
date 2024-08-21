@@ -13,7 +13,7 @@ Here we provide a summary of each thrust along with some examples of our work:
 
 ### Security and Privacy of AI
 
-We are working on making static malware detectors more robust against adversarial malware variants. As part of this thrust, we are also working on privacy of AI.
+We are working on making AI models more robust against adversarial attacks with a focus on static malware detectors. 
 
 <!---
 **Adversarially Robust Malware Detection with Multivew Representation Learning**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/rl.png){: style="width: 40%; float: right; margin: 0px 10px"}
@@ -39,6 +39,11 @@ that automatically crafting these adversarial malware variants at scale is benef
 knowledge about the architecture or parameters of the detector, which is not often available in practice. Moreover, the majority of these methods are restricted to additive modifications that append
 contents to the malware executable without modifying its original content. In this study, we offer a novel Reinforcement Learning (RL) method, which extends Variational Actor-Critic to non-continuous action spaces where modifications are
 inherently discrete.
+
+We are working on making LLM fine-tuning and AI model training resilient against data reconstruction attacks using differential privacy.
+
+**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/fsrdp.png){: style="width: 30%; float: right; margin: 0px 10px"}
+Differentially private stochastic gradient descent (DP-SGD) has been instrumental in privately training deep learning models by providing a framework to control and track the privacy loss incurred during training. At the core of this computation lies a subsampling method that uses a privacy amplification lemma to enhance the privacy guarantees provided by the additive noise. Fixed size subsampling is appealing for its constant memory usage, unlike the variable sized minibatches in Poisson subsampling. It is also of interest in addressing class imbalance and federated learning. However, the current computable guarantees for fixed-size subsampling are not tight and do not consider both add/remove and replace-one adjacency relationships. We present a new and holistic R{é}nyi differential privacy (RDP) accountant for DP-SGD with fixed-size subsampling without replacement (FSwoR) and with replacement (FSwR). For FSwoR we consider both add/remove and replace-one adjacency. Our FSwoR results improves on the best current computable bound by a factor of 4. We also show for the first time that the widely-used Poisson subsampling and FSwoR with replace-one adjacency have the same privacy to leading order in the sampling probability. Accordingly, our work suggests that FSwoR is often preferable to Poisson subsampling due to constant memory usage. Our FSwR accountant includes explicit non-asymptotic upper and lower bounds and, to the authors' knowledge, is the first such analysis of fixed-size RDP with replacement for DP-SGD. We analytically and empirically compare fixed size and Poisson subsampling, and show that DP-SGD gradients in a fixed-size subsampling regime exhibit lower variance in practice in addition to memory usage benefits. 
 
 **Private Fine-Tuninig of Large Language Models**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/ew.png){: style="width: 30%; float: right; margin: 0px 10px"}
 
