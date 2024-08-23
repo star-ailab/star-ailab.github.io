@@ -1,0 +1,102 @@
+Useful Links:
+
+https://wiki rc.usf.edu
+
+https://wiki.rc.usf.edu/index.php/Connecting_To_CIRCE
+
+https://wiki.rc.usf.edu/index.php/Guide_to_SLURM
+
+https://wiki.rc.usf.edu/index.php/CIRCE_Hardware
+
+Some Instructions:
+
+************************ Run via X2Go
+run x2goclient
+enter net ID and password
+
+ssh mdc-1057-13-8
+
+module load apps/cuda/12.2.2
+deviceQuery
+
+Download anaconda with wget and install it
+create your virtual env to work in
+
+When the ssh connection is lost, the process terminates. If you do not want that to happen you need to use SLURM to submit you jobs.
+
+For Slurm
+You can submit jobs to the new GPU node with SLURM using the muma_2021 partition and muma21 as the qos. To get your job assigned GPUs on the new node, you will need to add the following flag
+
+--gres=gpu:1
+
+************************ useful commands *************************************
+
+cd ~ : your home folder
+
+cd /: root (everyones account is there)
+
+cd /work_bgfs/user (your working directory)
+
+mv mv ~/coach-master/ /work_bgfs/user : move files to work directory (work_bgfs)
+
+sinfo : list compute nodes
+
+du -hc --max-depth=1 --inodes : quota of inondes in home: max is about 400k:
+
+************************ File transfer *************************************
+sftp username@circe.rc.usf.edu
+
+
+put filename
+
+lpwd: local working directory
+pwd: remote working directory
+lls: local
+ls:remote
+
+************************ Slurm script *************************************
+#!/bin/bash
+#SBATCH --time=6:00:00
+#SBATCH --partition=muma_2021
+#SBATCH --qos=muma21
+#SBATCH --gres=gpu:1
+#SBATCH --output=/home/e/use/Documents/output.%j
+#SBATCH -e error.%j.%N.txt
+
+module load apps/cuda/12.2.2
+
+python your_python_code.py
+
+
+Interactive Session:
+
+srun -p muma_2021 -q muma21 --gres=gpu:1 -t 06:00:00 --pty /bin/bash
+srun -p henderson_itn18 -q hen18 --gres=gpu:1 --pty /bin/bash
+srun -p henderson_itn18 -q hen18 --gres=gpu:1 --mem=6G -N 1 -n 4 -t 9:55:00 --pty /bin/bash
+
+srun --partition=cbcs --qos=preempt --nodes=1 --ntasks=1 --cpus-per-task=6 --time=65:00:00 --mem=120gb --gres=gpu:1 --pty /bin/bash
+
+srun --partition=chbme_2018 --qos=preempt --nodes=1 --ntasks=1 --cpus-per-task=6 --time=110:00:00 --mem=5gb --gres=gpu:1 --pty /bin/bash
+
+
+************************ Instructions on installing Miniconda3 *************************************
+    cd $HOME
+    wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    chmod +x Miniconda3-latest-Linux-x86_64.sh
+    ./Miniconda3-latest-Linux-x86_64.sh
+        when the installer asks “Do you wish the installer to initialize Miniconda3 by running conda init?”, please answer "yes"
+    log-out of CIRCE/RRA, then log back in
+    which conda pip
+        make sure it returns with: ~/miniconda3/bin/conda and ~/miniconda3/bin/pip
+    pip install --upgrade pip
+    conda update --all -y
+    conda install -y anaconda
+
+Once Conda is installed, you can then create virtual environments for each package (or combination of packages) that you may need, including Tensorflow, Keras, OpenCV, gurobipy, numpy, etc.
+
+A step-by-step walkthrough of using Conda (including creating Virtual Environments) is located at: Getting started with conda — conda 22.9.0.post96+2abc88b82 documentation  
+
+************************ help email *************************************
+
+rc-help@usf.edu
+

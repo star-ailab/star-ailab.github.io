@@ -7,9 +7,14 @@ permalink: /resources/
 ---
 
 
-# Some Useful Resources
+# Some Potentially Useful Resources
 
-- [MULTILINGUAL HACKER ASSET IDENTIFICATION LEXICON](https://mohammadrezaebrahimi.github.io/project%20resources/), By Mohammadreza Ebrahimi and Ashley Ireson
+- [MULTILINGUAL HACKER ASSET IDENTIFICATION LEXICON](https://mohammadrezaebrahimi.github.io/project%20resources/), By Reza Ebrahimi and Ashley Ireson
 - [A Gentle Introduction to Adversarial Artificial Intelligence & Applications in Cybersecurity](/files/AdversarialAI.pdf), By Mohammadreza Ebrahimi and Mihai Surdeanu
+- [Some fun examples on the current (Y2024) capabilities of large language models](/files/CurrentLimitationsofCommercialLLMs.pdf), By Reza Ebrahimi
+
+- [If you are at USF and want to run your ML algorithms on GPU clusters, this quick guide might help.](/files/hpc_slurm_helper.txt), By Reza Ebrahimi
+
+
 
 
