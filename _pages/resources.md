@@ -10,10 +10,10 @@ permalink: /resources/
 # Some Potentially Useful Resources
 
 - [MULTILINGUAL HACKER ASSET IDENTIFICATION LEXICON](https://mohammadrezaebrahimi.github.io/project%20resources/), By Reza Ebrahimi and Ashley Ireson
-- [A Gentle Introduction to Adversarial Artificial Intelligence & Applications in Cybersecurity](/files/AdversarialAI.pdf), By Mohammadreza Ebrahimi and Mihai Surdeanu
+- [A Gentle Introduction to Adversarial Artificial Intelligence & Applications in Cybersecurity](/files/AdversarialAI.pdf), By Reza Ebrahimi and Mihai Surdeanu
+\
+- [Our ARMOR method for robust adversarial learning at a glance](/files/Birrell_ICERM_2024_Poster-1.pdf), By Jeremiah Birrel
+\
 - [Some fun examples on the current (Y2024) capabilities of large language models](/files/CurrentLimitationsofCommercialLLMs.pdf), By Reza Ebrahimi
 - [If you are at USF and want to run your ML algorithms on GPU clusters, this quick guide might help.](/files/hpc_slurm_helper.txt), By Reza Ebrahimi
-
-
-
 
