@@ -14,9 +14,9 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:500px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Our paper, <a href="https://arxiv.org/pdf/2408.10456"> Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement></a> was accepted to NeurIPS 2024. </li>
+		<li>Our paper, <a href="https://arxiv.org/pdf/2408.10456" Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement></a> was accepted to NeurIPS 2024. </li>
 		<br>
-		<li>Our paper, <a href="https://arxiv.org/pdf/2304.03841"> Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning></a> was accepted to ACSAC 2024. </li>
+		<li>Our paper, <a href="https://arxiv.org/pdf/2304.03841" Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning></a> was accepted to ACSAC 2024. </li>
 		<br>
 		<li>Reza serves as a <b>PC member</b> in <a href ="https://dls2023.ieee-security.org/"> IEEE S&P Workshop on Deep Learning Security and Privacy 2023 </a>.</li>
 		<br>
