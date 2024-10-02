@@ -1,9 +1,27 @@
 - title: "Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences"
   image: imageaward_edited.png
-  description: arXiv, 2023
+  description: arXiv
   authors: J. Birrell, M. Ebrahimi
   link:
     url: https://arxiv.org/pdf/2309.03791.pdf
+    display: Download
+  highlight: 0
+
+- title: "Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement"
+  image: imageaward_edited.png
+  description: NeurIPS (forthcoming), 2024
+  authors: J. Birrell, R. Ebrahimi, R. Behnia, J. Pacheco
+  link:
+    url: https://arxiv.org/abs/2408.10456
+    display: Download
+  highlight: 0
+
+- title: "Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning"
+  image: imageaward_edited.png
+  description: ACSAC, 2024
+  authors: R. Behnia, A. Riasi, R. Ebrahimi, S. Chow, B. padmanabhan, T. Hoang
+  link:
+    url: https://arxiv.org/pdf/2304.03841
     display: Download
   highlight: 0
   
@@ -27,7 +45,7 @@
   
 - title: "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"
   image: imageaward_edited.png
-  description: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
+  description: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023
   authors: M. Ebrahimi, Y. Chai, H. Zhang, H. Chen
   link:
     url: https://mohammadrezaebrahimi.github.io/publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf
