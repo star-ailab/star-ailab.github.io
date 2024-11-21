@@ -9,7 +9,8 @@ permalink: /resources/
 
 # Some Potentially Useful Resources
 
-- [Our ARMOR method for robust adversarial learning at a glance](/files/Birrell_ICERM_2024_Poster-1.pdf), By Jeremiah Birrell
+- [Our ARMOR method for robust adversarial learning at a glance](/files/ICERM_2024_Poster-1.pdf), By Jeremiah Birrell
+- [Our FSRDP method for differentially private stochastic gradient descent with fixed size minibatches at a glance](/files/DPSGD_Poster.pdf), By Reza Ebrahimi and Jeremiah Birrell
 
 
 - [MULTILINGUAL HACKER ASSET IDENTIFICATION LEXICON](https://mohammadrezaebrahimi.github.io/project%20resources/), By Reza Ebrahimi and Ashley Ireson
