@@ -254,7 +254,7 @@ permalink: /team/
 
 <br/>
 
-### Founder's Bio and [Curriculum vitae](/files/Ebrahimi_CV_2024_Forwebsite2.pdf)
+### Founder's Bio, [Curriculum vitae](/files/Ebrahimi_CV_2024_Forwebsite2.pdf), and [Google Scholar](https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en) 
 <div class="col-sm-12 clearfix">
   <a href="https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left; padding:8px" /></a>
   <h4>&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en"> Reza Ebrahimi </a></h4>
