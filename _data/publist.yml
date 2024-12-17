@@ -1,3 +1,15 @@
+- title: "Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization"
+  image: imageaward_edited.png
+  description: IEEE TDSC, 2025
+  authors: R. Ebrahimi, J. Pacheco, J. Hu, H. Chen
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711271
+    display: Download
+  highlight: 0
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711271
+
+
 - title: "Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences"
   image: imageaward_edited.png
   description: arXiv
@@ -9,7 +21,7 @@
 
 - title: "Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement"
   image: imageaward_edited.png
-  description: NeurIPS (forthcoming), 2024
+  description: NeurIPS, 2024
   authors: J. Birrell, R. Ebrahimi, R. Behnia, J. Pacheco
   link:
     url: https://arxiv.org/abs/2408.10456
