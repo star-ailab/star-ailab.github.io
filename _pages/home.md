@@ -14,9 +14,11 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:500px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
+		<li>Our paper, <a href="https://openreview.net/forum?id=irrtPRFksw"> Risk-Sensitive Variational Actor-Critic: A Model-Based Approach</a> was accepted to <b>ICLR</b> 2025. </li>
+		</br>
 		<li>Our paper, <a href="https://arxiv.org/pdf/2408.10456"> Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement</a> was accepted to <b>NeurIPS</b> 2024. </li>
 		<br>
-		<li>Our paper, <a href="https://www.researchgate.net/publication/384676652_Learning_Contextualized_Action_Representations_in_Sequential_Decision_Making_for_Adversarial_Malware_Optimization"> Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization</a> was accepted to <b>TDSC</b> 2024. </li>
+		<li>Our paper, <a href="https://www.researchgate.net/publication/384676652_Learning_Contextualized_Action_Representations_in_Sequential_Decision_Making_for_Adversarial_Malware_Optimization"> Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization</a> was accepted to <b>IEEE TDSC</b> 2024. </li>
 		<br>
 		<li>Our paper, <a href="https://arxiv.org/pdf/2304.03841"> Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning</a> was accepted to <b>ACSAC</b> 2024. </li>
 		<br>
