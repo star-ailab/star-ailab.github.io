@@ -15,6 +15,15 @@
     url: https://arxiv.org/pdf/2309.03791.pdf
     display: Download
   highlight: 0
+  
+- title: "Risk-Sensitive Variational Actor-Critic: A Model-Based Approach"
+  image: imageaward_edited.png
+  description: ICLR, 2025
+  authors: A. Granados, R. Ebrahimi, J. Pacheco
+  link:
+    url: https://openreview.net/forum?id=irrtPRFksw
+    display: Download
+  highlight: 0  
 
 - title: "Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement"
   image: imageaward_edited.png
