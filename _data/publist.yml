@@ -46,7 +46,7 @@
 - title: "Multi-view Representation Learning from Malware to Defend Against Adversarial Variants"
   image: imageaward_edited.png
   description: IEEE ICDM Workshop on Multi-view Representation Learning, 2022
-  authors: J. Hu, M. Ebrahimi, W. Li, X. Li, H. Chen
+  authors: J. Hu, R. Ebrahimi, W. Li, X. Li, H. Chen
   link:
     url: https://arxiv.org/pdf/2210.15429.pdf
     display: Download
@@ -55,7 +55,7 @@
 - title: "EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy"
   image: imageaward_edited.png
   description: IEEE ICDM Workshop on Machine Learning for Cybersecurity, 2022
-  authors: R. Behnia\*, M. Ebrahimi\*, J. Pacheco, B. Padmanabhan (* Equal contribution)
+  authors: R. Behnia\*, R. Ebrahimi\*, J. Pacheco, B. Padmanabhan (* Equal contribution)
   link:
     url: https://arxiv.org/pdf/2210.15042.pdf
     display: Download
@@ -64,7 +64,7 @@
 - title: "Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"
   image: imageaward_edited.png
   description: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023
-  authors: M. Ebrahimi, Y. Chai, H. Zhang, H. Chen
+  authors: R. Ebrahimi, Y. Chai, H. Zhang, H. Chen
   link:
     url: https://mohammadrezaebrahimi.github.io/publications/Heterogeneous_Domain_Adaptation_with_Adversarial_Neural_Representation_Learning_Experiments_on_E-Commerce_and_Cybersecurity.pdf
     display: Download
@@ -73,7 +73,7 @@
 - title: "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces"
   image: imageaward_edited.png
   description: IEEE S&P Workshop on Deep Learning and Security (DLS), pp. 85-91, 2021
-  authors: M. Ebrahimi, J. Pacheco, W. Li, J. Hu, H. Chen
+  authors: R. Ebrahimi, J. Pacheco, W. Li, J. Hu, H. Chen
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9474314
     display: Download
@@ -82,7 +82,7 @@
 - title: "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"
   image:
   description: AAAI Conference on Artificial Intelligence, Workshop on Robust, Secure, and Efficient Machine Learning (RSEML), February 8-9, 2021
-  authors: M. Ebrahimi, N. Zhang, J. Hu, M. T. Raza, H. Chen
+  authors: R. Ebrahimi, N. Zhang, J. Hu, M. T. Raza, H. Chen
   link:
     url: https://arxiv.org/abs/2012.07994
     display: Download
@@ -92,7 +92,7 @@
 - title: "Single-Shot Black-Box Adversarial Attacks Against Malware Detectors: A Causal Language Model Approach"
   image:
   description: IEEE International Conference on Intelligence and Security Informatics (ISI), 2021
-  authors: J. Hu, M. Ebrahimi, H. Chen
+  authors: J. Hu, R. Ebrahimi, H. Chen
   link:
     url: https://arxiv.org/abs/2112.01724
     display: Download
@@ -102,7 +102,7 @@
 - title: "Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence"
   image: BSCCOgap.png
   description: ACM TMIS, 2022
-  authors: N. Zhang, M. Ebrahimi, W. Li, H. Chen
+  authors: N. Zhang, R. Ebrahimi, W. Li, H. Chen
   link: 
     url: https://dl.acm.org/doi/full/10.1145/3505226
     display: Download
@@ -111,7 +111,7 @@
 - title: "Cross-Lingual Security Analytics: Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation Learning"
   image: Pairs3.png
   description: MIS Quarterly (MISQ), 2022
-  authors: M. Ebrahimi, Y. Chai, S. Samtani, H. Chen
+  authors: R. Ebrahimi, Y. Chai, S. Samtani, H. Chen
   link:
     url: https://misq.umn.edu/cross-lingual-cybersecurity-analytics-in-the-international-dark-web-with-adversarial-deep-representation-learning.html
     display: Download
