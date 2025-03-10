@@ -1,4 +1,4 @@
-- name: Reza Ebrahimi (Director)
+- name: <a href="https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en"> Reza Ebrahimi (Director) </a>
   photo: rebrahimi.jpg
   info: Assistant Professor, University of South Florida
   email: ebrahimim@usf.edu
@@ -7,7 +7,7 @@
   education2: MS in Computer Science with Ching Y. Suen and Olga Ormandjieva, Concordia University, Montreal, Canada
   
 
-- name: Jason Pacheco (Co-director)
+- name: <a href="https://scholar.google.com/citations?user=71ZEsnEAAAAJ&hl=en&oi=ao"> Jason Pacheco (Co-director) </a>
   photo: jpacheco.jpg
   info: Assistant Professor, University of Arizona
   email: pachecoj@cs.arizona.edu
@@ -16,16 +16,7 @@
   education2: Ph.D. in Computer Science with <a href="https://www.ics.uci.edu/~sudderth/"> Erik Sudderth </a>, Brown University
   
 
-- name: Rouzbeh Behnia (Co-director)
-  photo: rbehnia.jpg
-  info: Assistant Professor, University of South Florida
-  email: behnia@usf.edu
-  number_educ: 3
-  education1: Ph.D. in Computer Science with <a href="https://cse.usf.edu/~attilaayavuz/"> Attila Yavuz </a>, University of South Florida
-  education2: Internship in <a href="https://usa.visa.com/about-visa/visa-research.html"> VISA Research</a>
-  education3: MS in Computer Science with Swee Huay Heng, Multimedia University, Malaysia
-
-- name: Jeremiah Birrell (Co-director)
+- name: <a href="https://scholar.google.com/citations?user=R60hJGUAAAAJ&hl=en&oi=ao"> Jeremiah Birrell (Co-director) </a>
   photo: jbirrell.png
   info:  
   email: 
@@ -34,5 +25,12 @@
   education2: Postdoc at <a href="https://tripods.cs.umass.edu/people.html"> TRIPODS Institute for Theoretical Foundations of Data Science </a>, University of Massachusetts Amherst
   education3: Ph.D. in Applied Mathematics, University of Arizona
 
-
+- name: <a href="https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao" Rouzbeh Behnia (Co-director) </a>
+  photo: rbehnia.jpg
+  info: Assistant Professor, University of South Florida
+  email: behnia@usf.edu
+  number_educ: 3
+  education1: Ph.D. in Computer Science with <a href="https://cse.usf.edu/~attilaayavuz/"> Attila Yavuz </a>, University of South Florida
+  education2: Internship in <a href="https://usa.visa.com/about-visa/visa-research.html"> VISA Research</a>
+  education3: MS in Computer Science with Swee Huay Heng, Multimedia University, Malaysia
 
