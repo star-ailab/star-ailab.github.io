@@ -18,5 +18,5 @@ permalink: /resources/
 
 
 - [Some fun examples on the current (Y2024) capabilities of large language models](/files/CurrentLimitationsofCommercialLLMs.pdf), By Reza Ebrahimi
-- [If you are at USF and want to run your ML algorithms on GPU clusters, this quick guide might help.](/files/hpc_slurm_helper.txt), By Reza Ebrahimi
+- [If you are at USF and want to run your ML algorithms on GPU clusters, this quick guide might help.](/files/HPC_QuickGuide.pdf), By Reza Ebrahimi
 
