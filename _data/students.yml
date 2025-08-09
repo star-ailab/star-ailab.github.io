@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Alysson De Oliveira Silveira 
-  photo: asilveira.jpg
-  info: Ph.D. student (jointly supervised by Anol Bhattacherjee)
-  email: alysson@usf.edu
-  number_educ: 0
-  education1:
-
 - name: Atousa Arzanipour
   photo: aarzanipour.jpg
   info: Ph.D. student (jointly supervised by Rouzbeh Behnia)
   email: arzanipour@usf.edu
+  number_educ: 0
+  education1:
+
+- name: Alysson De Oliveira Silveira 
+  photo: asilveira.jpg
+  info: Ph.D. student (jointly supervised by Sunil Mithas and Anol Bhattacherjee)
+  email: alysson@usf.edu
   number_educ: 0
   education1:
