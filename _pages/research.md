@@ -13,7 +13,7 @@ Here we provide a summary of each thrust along with some examples of our work:
 
 ### Security and Privacy of AI
 
-**RADAR: Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar.png){: style="width: 30%; float: right; margin: 0px 10px"}
+**RADAR: Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning** ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar.png){: style="width: 34%; float: right; margin: 0px 10px"}
 
 The robustness of cyber defense AI agents has raised deep concerns in modern cyber defense. Drawing on the computational design science paradigm, we couple robust optimization and reinforcement learning theories to develop a novel framework, called Reinforcement Learning-based Adversarial Attack Robustness (RADAR), to increase the robustness of cyber defense AI agents against adversarial attacks. To demonstrate practical utility, we instantiate RADAR for malware attacks – the primary cause of financial loss in cyber attacks. Incorporating RADAR in three renowned malware detectors shows an adversarial robustness increase of up to seven times, on average.
 
@@ -21,7 +21,7 @@ You can access the MISQ paper [here](/files/radar.pdf).
 
 We are working on (1) making AI models more robust against adversarial attacks with a focus on static malware detectors, (2) making AI model training and LLM fine-tuning robust against data reconstruction attacks using differential privacy.
 
-**Risk-Sensitive Variational Actor-Critic: A Model-Based Approach** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rsvac.png){: style="width: 40%; float: right; margin: 0px 10px"}
+**Risk-Sensitive Variational Actor-Critic: A Model-Based Approach** ![]({{ site.url }}{{ site.baseurl }}/images/respic/rsvac.png){: style="width: 36%; float: right; margin: 0px 10px"}
 
 Risk-sensitive reinforcement learning (RL) with an entropic risk measure typically requires knowledge of the transition kernel or performs unstable updates w.r.t. exponential Bellman equations. As a consequence, algorithms that optimize this objective have been restricted to tabular or low-dimensional continuous environments. In this work we leverage the connection between the entropic risk measure and the RL-as-inference framework to develop a risk-sensitive variational actor-critic algorithm (rsVAC). Our work extends the variational framework to incorporate stochastic rewards and proposes a variational model-based actor-critic approach that modulates policy risk via a risk parameter. We consider, both, the risk-seeking and risk-averse regimes and present rsVAC learning variants for each setting. Our experiments demonstrate that this approach produces risk-sensitive policies and yields improvements in both tabular and risk-aware variants of complex continuous control tasks in MuJoCo.
 

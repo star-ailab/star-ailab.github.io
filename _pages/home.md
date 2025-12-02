@@ -16,9 +16,11 @@ permalink: /
 	<ul class="awards" style="margin-bottom: -5px">
 		<li>Our paper, <a href="https://arxiv.org/abs/2309.03791"> Optimal Transport Regularized Divergences: Application to Adversarial Robustness</a> was accepted to <b>SIAM</b> 2025. </li>
 		<br>
-		<li>Our paper, <a href="https://doi.org/10.25300/MISQ/2024/17339"> RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning </a> was accepted to <b>MIS Quarterly (~10% acceptance rate)</b> 2025. </li>
+		<li>Our paper, <a href="https://doi.org/10.25300/MISQ/2024/17339"> RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning </a> was accepted to <b>MIS Quarterly 2025 (~10% acceptance rate)</b>. </li>
 		<br>
 		<li>Our paper, <a href="https://openreview.net/forum?id=irrtPRFksw"> Risk-Sensitive Variational Actor-Critic: A Model-Based Approach</a> was accepted to <b>ICLR</b> 2025. </li>
+		<br>
+		<li>Our paper, <a href="https://www.tandfonline.com/doi/epdf/10.1080/07421222.2025.2561384?needAccess=true"> Defending Deep Learning-Based Raw Malware Detectors Against Adversarial Attacks: A Sequence Modeling Approach </a> was accepted to <b>MIS Quarterly 2025 (~10% acceptance rate)</b>. </li>
 		<br>
 		<li>Our paper, <a href="https://arxiv.org/pdf/2408.10456"> Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement</a> was accepted to <b>NeurIPS</b> 2024. </li>
 		<br>
