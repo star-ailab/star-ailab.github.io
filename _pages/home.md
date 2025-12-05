@@ -22,6 +22,8 @@ permalink: /
 		<br>
 		<li>Our paper, <a href="https://www.tandfonline.com/doi/epdf/10.1080/07421222.2025.2561384?needAccess=true"> Defending Deep Learning-Based Raw Malware Detectors Against Adversarial Attacks: A Sequence Modeling Approach </a> was accepted to <b> JMIS 2025</b>. </li>
 		<br>
+		<li>Our paper, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10994375"> Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security </a> was accepted to <b> TDSC </b> 2025. </li>	
+		<br>
 		<li>Our paper, <a href="https://arxiv.org/pdf/2408.10456"> Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement</a> was accepted to <b>NeurIPS</b> 2024. </li>
 		<br>
 		<li>Our paper, <a href="https://www.researchgate.net/publication/384676652_Learning_Contextualized_Action_Representations_in_Sequential_Decision_Making_for_Adversarial_Malware_Optimization"> Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization</a> was accepted to <b>IEEE TDSC</b> 2024. </li>
