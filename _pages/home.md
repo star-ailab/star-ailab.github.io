@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:300px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Our paper, Trustworthy Federated Learning with Local Differential Privacy received the best <b>paper award in WITS</b> 2025 (selected from 156 papers). </li>
+		<li>Our paper, Trustworthy Federated Learning with Local Differential Privacy received the <b>best paper award in WITS</b> 2025 (selected from 156 papers). </li>
 		<br>
 		<li>Our paper, <a href="https://arxiv.org/abs/2309.03791"> Optimal Transport Regularized Divergences: Application to Adversarial Robustness</a> was accepted to <b>SIAM</b> 2025. </li>
 		<br>
