@@ -8,12 +8,14 @@ permalink: /
 
 #### At Star-AI (&#9733;AI) Lab, we focus on cutting-edge research to make the online space safer.
 
-#### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, Security of AI, and Privacy of AI. Please see our [current projects](https://star-ailab.github.io/research/) and [publications](https://star-ailab.github.io/publications/) in each area from our [team](https://star-ailab.github.io/team/) 😊 .
+#### To this end, we develop novel methods in three key areas: AI-enabled cybersecurity, Security of AI, and Privacy of AI. Please see our **[current projects](https://star-ailab.github.io/research/)** and **[publications](https://star-ailab.github.io/publications/)** in each area from our **[team](https://star-ailab.github.io/team/)** 😊 .
 
 ### Recent News
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:300px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
+		<li>Our paper, Trustworthy Federated Learning with Local Differential Privacy received the best <b>paper award in WITS</b> 2025 (selected from 156 papers). </li>
+		<br>
 		<li>Our paper, <a href="https://arxiv.org/abs/2309.03791"> Optimal Transport Regularized Divergences: Application to Adversarial Robustness</a> was accepted to <b>SIAM</b> 2025. </li>
 		<br>
 		<li>Our paper, <a href="https://doi.org/10.25300/MISQ/2024/17339"> RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning </a> was accepted to <b>MIS Quarterly</b> 2025 (~10% acceptance rate). </li>
