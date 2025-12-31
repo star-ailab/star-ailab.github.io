@@ -55,7 +55,7 @@ permalink: /
 	</ul>
 </div>
 
-### Founder's Bio, [Curriculum vitae](/files/Ebrahimi_CV_2025.pdf), and [Google Scholar](https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en) 
+### Founder's Bio, [Curriculum vitae](/files/Ebrahimi_CV_2025.pdf), and [Google Scholar](https://scholar.google.com/citations?user=fFfNnJA7n38C&hl=en&oi=ao) 
 <div class="col-sm-12 clearfix">
   <a href="https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en"> <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rebrahimi.jpg" class="img-responsive" width="25%" style="float: left; padding:8px" /></a>
   <h4>&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=4DmURbEAAAAJ&hl=en"> Reza Ebrahimi </a></h4>
