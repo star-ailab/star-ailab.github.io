@@ -1,3 +1,12 @@
+- title: "‘RADAR: A framework for developing adversarially robust cyber defense AI agents with deep reinforcement learning"
+  image: imageaward_edited.png
+  description: MIS Quarterly, 2025
+  authors: R. Ebrahimi, J. Pacheco, J. Hu, H. Chen
+  link:
+    url: /files/radar.pdf
+    display: Download
+  highlight: 0
+
 - title: "Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization"
   image: imageaward_edited.png
   description: IEEE TDSC, 2025
@@ -7,9 +16,9 @@
     display: Download
   highlight: 0
 
-- title: "Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences"
+- title: "Optimal Transport Regularized Divergences: Application to Adversarial Robustness"
   image: imageaward_edited.png
-  description: arXiv
+  description: SIAM Journal on Mathematics of Data Science
   authors: J. Birrell, R. Ebrahimi
   link:
     url: https://arxiv.org/pdf/2309.03791.pdf
