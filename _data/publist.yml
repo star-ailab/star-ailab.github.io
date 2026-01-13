@@ -15,6 +15,33 @@
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711271
     display: Download
   highlight: 0
+  
+- title: "Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization"
+  image: imageaward_edited.png
+  description: IEEE TDSC, 2025
+  authors: R. Ebrahimi, J. Pacheco, J. Hu, H. Chen
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711271
+    display: Download
+  highlight: 0
+  
+- title: "Defending Deep Learning-based Raw Malware Detectors Against Adversarial Attacks: A Sequence Modeling Approach"
+  image: imageaward_edited.png
+  description: JMIS, 2025
+  authors: R. Ebrahimi, J. Hu, N. Zhang, J. Nunamaker, H.Chen
+  link:
+    url: https://www.tandfonline.com/doi/pdf/10.1080/07421222.2025.2561384
+    display: Download
+  highlight: 0
+  
+- title: "Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security"
+  image: imageaward_edited.png
+  description: IEEE TDSC, 2025
+  authors: Y. Zhang, R. Behnia, A. Yavuz, R. Ebrahimi, E. Bertino
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10994375
+    display: Download
+  highlight: 0
 
 - title: "Optimal Transport Regularized Divergences: Application to Adversarial Robustness"
   image: imageaward_edited.png
