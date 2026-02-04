@@ -16,15 +16,6 @@
     display: Download
   highlight: 0
   
-- title: "Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization"
-  image: imageaward_edited.png
-  description: IEEE TDSC, 2025
-  authors: R. Ebrahimi, J. Pacheco, J. Hu, H. Chen
-  link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711271
-    display: Download
-  highlight: 0
-  
 - title: "Defending Deep Learning-based Raw Malware Detectors Against Adversarial Attacks: A Sequence Modeling Approach"
   image: imageaward_edited.png
   description: JMIS, 2025
