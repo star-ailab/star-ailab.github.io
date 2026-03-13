@@ -34,7 +34,7 @@
     display: Download
   highlight: 0
 
-- title: "Optimal Transport Regularized Divergences: Application to Adversarial Robustness"
+- title: "[Optimal Transport Regularized Divergences: Application to Adversarial Robustness](https://arxiv.org/pdf/2309.03791.pdf)"
   image: imageaward_edited.png
   description: SIAM Journal on Mathematics of Data Science
   authors: J. Birrell, R. Ebrahimi
