@@ -43,7 +43,7 @@
     display: Download
   highlight: 0
   
-- title: "Risk-Sensitive Variational Actor-Critic: A Model-Based Approach"
+- title: "[Risk-Sensitive Variational Actor-Critic: A Model-Based Approach](https://openreview.net/forum?id=irrtPRFksw)"
   image: imageaward_edited.png
   description: ICLR, 2025
   authors: A. Granados, R. Ebrahimi, J. Pacheco
@@ -52,7 +52,7 @@
     display: Download
   highlight: 0  
 
-- title: "Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement"
+- title: "[Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement](https://arxiv.org/abs/2408.10456)"
   image: imageaward_edited.png
   description: NeurIPS, 2024
   authors: J. Birrell, R. Ebrahimi, R. Behnia, J. Pacheco
