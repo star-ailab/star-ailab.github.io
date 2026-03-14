@@ -15,12 +15,19 @@
   number_educ: 0
   education1:
 
-- name: Alysson De Oliveira Silveira 
-  photo: asilveira.jpg
-  info: Ph.D. student (jointly supervised by Sunil Mithas and Anol Bhattacherjee)
+- name: Yanjing Ren 
+  photo: yren.jpg
+  info: Ph.D. student (jointly supervised by Tengteng Ma)
   email: alysson@usf.edu
   number_educ: 0
   education1:
+
+#- name: Alysson De Oliveira Silveira 
+#  photo: asilveira.jpg
+#  info: Ph.D. student (jointly supervised by Sunil Mithas and Anol Bhattacherjee)
+#  email: alysson@usf.edu
+#  number_educ: 0
+#  education1:
 
   
   
