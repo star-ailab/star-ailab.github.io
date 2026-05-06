@@ -5,13 +5,26 @@
   number_educ: 0
   education1:
 
+- name: Arman Riasi
+  photo: ariasi.jpg
+  info: Ph.D. student (supervised by Thang Hoang at VirginiaTech)
+  email: armanriasi@vt.edu
+  number_educ: 0
+  education1:
+
 - name: Henry yang
   photo: hyang.jpg
   info: Ph.D. student (supervised by Hsinchun Chen at UArizona)
   email: chihengyang@arizona.edu
   number_educ: 0
   education1:
-  
+
+- name: Yiwei Zhang
+  photo: yzahng.jpg
+  info: Ph.D. student (supervised by Elisa Bertino at Purdue)
+  email: zhan4630@purdue.edu
+  number_educ: 0
+  education1:
 
 
 
