@@ -304,7 +304,7 @@ permalink: /team/
 
 -->
 
-### Collaborators from University of Arizona (Supervised by Dr. Hsinchun Chen)
+### Student Collaborators from University of Arizona; 2023; Tucson AZ)
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ua.jpg" class="img-responsive" width="65%" style="float: left; padding:8px" />
 </div>
