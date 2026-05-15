@@ -304,7 +304,7 @@ permalink: /team/
 
 -->
 
-#### Student Collaborators from University of Arizona; 2023; Tucson AZ)
+#### Student Collaborators from University of Arizona, Tucson, AZ, 2023
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ua.jpg" class="img-responsive" width="65%" style="float: left; padding:8px" />
 </div>
