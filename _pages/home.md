@@ -14,7 +14,7 @@ permalink: /
 
 <div markdown="0" class="wrapper" style="border-bottom: 1px solid $black <!--$grey-color-->; border:4px; height:300px; overflow:auto;">
 	<ul class="awards" style="margin-bottom: -5px">
-		<li>Our work was featured in Muma [Return on Ideas (ROI)](https://www.usf.edu/business/news/2026/roi-spring-training-ai-before-the-hack.aspx) Magazine . </li>
+		<li>Our work was featured in Muma <a href="(https://www.usf.edu/business/news/2026/roi-spring-training-ai-before-the-hack.aspx)"> Return on Ideas (ROI) Magazine <\a>. </li>
 		<br>
 		<li>Our paper, Trustworthy Federated Learning with Local Differential Privacy received the <b>Best Paper Award in WITS</b> 2025 (selected from 156 papers). </li>
 		<br>
